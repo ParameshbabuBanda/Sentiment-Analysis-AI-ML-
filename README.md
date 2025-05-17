@@ -78,4 +78,4 @@ The model and vectorizer (sentiment_model.pkl, vectorizer.pkl) will be created a
 
 ## OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/5cfec36e-d576-4c5e-9788-ed4ea3b83c65)
